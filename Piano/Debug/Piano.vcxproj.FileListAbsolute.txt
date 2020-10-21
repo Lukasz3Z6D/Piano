@@ -1,0 +1,2 @@
+C:\Users\Lukasz\Desktop\Piano\Piano\Debug\Piano.exe
+C:\Users\Lukasz\Desktop\Piano\Piano\Debug\Piano.pdb
